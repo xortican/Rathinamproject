@@ -1,3 +1,3 @@
 a=1
-b=2
+b=6
 print c(a+b)
